@@ -1,2 +1,3 @@
 # APPLIED_DATA_SCIENCE
- python
+In progress...
+I had lost the most part of the code for this course
